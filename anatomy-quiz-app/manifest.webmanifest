@@ -1,0 +1,17 @@
+{
+  "name": "Anatomy Tagging Quiz",
+  "short_name": "Anatomy Quiz",
+  "description": "R-type anatomy tagging quiz with Google Drive sync",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f7fb",
+  "theme_color": "#1b7f85",
+  "lang": "ko",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
